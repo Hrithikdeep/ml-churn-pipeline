@@ -36,7 +36,10 @@ Live API: [https://ml-churn-pipeline.onrender.com](https://ml-churn-pipeline.onr
    * Save model as `model.pkl`
    * Generate SHAP explanations
 
-> You can add screenshots of the notebook for better understanding.
+> <img width="1000" height="800" alt="Screenshot 2025-07-25 at 5 52 15 PM" src="https://github.com/user-attachments/assets/9bb02d81-869d-4684-a24f-5f4c8f6e4950" />
+<img width="1000" height="800" alt="Screenshot 2025-07-25 at 6 06 13 PM" src="https://github.com/user-attachments/assets/5e163c6c-68e2-43a1-b7fe-415de52da4df" />
+
+
 
 ---
 
